@@ -8,7 +8,3 @@
 
 Now continue to https://localhost:8443, the application should be up and running.
 
-### Caveats
-
-* In case you are using chrome, go to chrome://flags/#allow-insecure-localhost and Enable the option that says "Allow invalid certificates for resources loaded from localhost".
-
